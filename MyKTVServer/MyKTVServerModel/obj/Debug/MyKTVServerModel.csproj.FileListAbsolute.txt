@@ -1,0 +1,10 @@
+C:\Users\JasonFX\Desktop\KTV\MyKTVServer\MyKTVServerModel\bin\Debug\MyKTVServer.Model.dll
+C:\Users\JasonFX\Desktop\KTV\MyKTVServer\MyKTVServerModel\bin\Debug\MyKTVServer.Model.pdb
+C:\Users\JasonFX\Desktop\KTV\MyKTVServer\MyKTVServerModel\obj\Debug\MyKTVServer.Model.dll
+C:\Users\JasonFX\Desktop\KTV\MyKTVServer\MyKTVServerModel\obj\Debug\MyKTVServer.Model.pdb
+C:\Users\JasonFX\Desktop\KTV\MyKTVServer\MyKTVServerModel\obj\Debug\MyKTVServerModel.csprojResolveAssemblyReference.cache
+E:\KTV\MyKTVServer\MyKTVServerModel\bin\Debug\MyKTVServer.Model.dll
+E:\KTV\MyKTVServer\MyKTVServerModel\bin\Debug\MyKTVServer.Model.pdb
+E:\KTV\MyKTVServer\MyKTVServerModel\obj\Debug\MyKTVServerModel.csprojResolveAssemblyReference.cache
+E:\KTV\MyKTVServer\MyKTVServerModel\obj\Debug\MyKTVServer.Model.dll
+E:\KTV\MyKTVServer\MyKTVServerModel\obj\Debug\MyKTVServer.Model.pdb

@@ -1,0 +1,9 @@
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientBLL\bin\Release\MyKTVClient.BLL.dll
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientBLL\bin\Release\MyKTVClient.BLL.pdb
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientBLL\bin\Release\MyKTVClient.DAL.dll
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientBLL\bin\Release\MyKTVClient.Model.dll
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientBLL\bin\Release\MyKTVClient.DAL.pdb
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientBLL\bin\Release\MyKTVClient.Model.pdb
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientBLL\obj\Release\MyKTVClientBLL.csprojResolveAssemblyReference.cache
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientBLL\obj\Release\MyKTVClient.BLL.dll
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientBLL\obj\Release\MyKTVClient.BLL.pdb

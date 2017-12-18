@@ -1,0 +1,4 @@
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientModel\bin\Release\MyKTVClient.Model.dll
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientModel\bin\Release\MyKTVClient.Model.pdb
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientModel\obj\Release\MyKTVClient.Model.dll
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientModel\obj\Release\MyKTVClient.Model.pdb

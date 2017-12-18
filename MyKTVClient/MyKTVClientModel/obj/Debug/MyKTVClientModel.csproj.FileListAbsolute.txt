@@ -1,0 +1,10 @@
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientModel\obj\Debug\MyKTVClientModel.csprojResolveAssemblyReference.cache
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientModel\bin\Debug\MyKTVClient.Model.dll
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientModel\bin\Debug\MyKTVClient.Model.pdb
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientModel\obj\Debug\MyKTVClient.Model.dll
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientModel\obj\Debug\MyKTVClient.Model.pdb
+E:\KTV\MyKTVClient\MyKTVClientModel\bin\Debug\MyKTVClient.Model.dll
+E:\KTV\MyKTVClient\MyKTVClientModel\bin\Debug\MyKTVClient.Model.pdb
+E:\KTV\MyKTVClient\MyKTVClientModel\obj\Debug\MyKTVClient.Model.dll
+E:\KTV\MyKTVClient\MyKTVClientModel\obj\Debug\MyKTVClient.Model.pdb
+E:\KTV\MyKTVClient\MyKTVClientModel\obj\Debug\MyKTVClientModel.csprojResolveAssemblyReference.cache

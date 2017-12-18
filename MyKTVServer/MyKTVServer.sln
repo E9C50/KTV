@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyKTVServer", "MyKTVServer\MyKTVServer.csproj", "{FBADB71F-409A-4034-866D-AAEBD5823EAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyKTVServerBLL", "MyKTVServerBLL\MyKTVServerBLL.csproj", "{0F079BF8-63AC-43BB-8288-EF23E634AE53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyKTVServerDAL", "MyKTVServerDAL\MyKTVServerDAL.csproj", "{D5F47EC5-1781-426D-AD3F-84EE36315920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyKTVServerModel", "MyKTVServerModel\MyKTVServerModel.csproj", "{678EB063-CD49-45D0-9358-59C740A285D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBADB71F-409A-4034-866D-AAEBD5823EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBADB71F-409A-4034-866D-AAEBD5823EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBADB71F-409A-4034-866D-AAEBD5823EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBADB71F-409A-4034-866D-AAEBD5823EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F079BF8-63AC-43BB-8288-EF23E634AE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F079BF8-63AC-43BB-8288-EF23E634AE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F079BF8-63AC-43BB-8288-EF23E634AE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F079BF8-63AC-43BB-8288-EF23E634AE53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5F47EC5-1781-426D-AD3F-84EE36315920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5F47EC5-1781-426D-AD3F-84EE36315920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5F47EC5-1781-426D-AD3F-84EE36315920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5F47EC5-1781-426D-AD3F-84EE36315920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{678EB063-CD49-45D0-9358-59C740A285D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678EB063-CD49-45D0-9358-59C740A285D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678EB063-CD49-45D0-9358-59C740A285D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678EB063-CD49-45D0-9358-59C740A285D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

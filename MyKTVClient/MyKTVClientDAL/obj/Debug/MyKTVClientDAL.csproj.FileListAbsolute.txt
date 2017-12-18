@@ -1,0 +1,14 @@
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientDAL\obj\Debug\MyKTVClientDAL.csprojResolveAssemblyReference.cache
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientDAL\bin\Debug\MyKTVClient.DAL.dll
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientDAL\bin\Debug\MyKTVClient.DAL.pdb
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientDAL\bin\Debug\MyKTVClient.Model.dll
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientDAL\bin\Debug\MyKTVClient.Model.pdb
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientDAL\obj\Debug\MyKTVClient.DAL.dll
+C:\Users\JasonFX\Desktop\KTV\MyKTVClient\MyKTVClientDAL\obj\Debug\MyKTVClient.DAL.pdb
+E:\KTV\MyKTVClient\MyKTVClientDAL\bin\Debug\MyKTVClient.DAL.dll
+E:\KTV\MyKTVClient\MyKTVClientDAL\bin\Debug\MyKTVClient.DAL.pdb
+E:\KTV\MyKTVClient\MyKTVClientDAL\bin\Debug\MyKTVClient.Model.dll
+E:\KTV\MyKTVClient\MyKTVClientDAL\bin\Debug\MyKTVClient.Model.pdb
+E:\KTV\MyKTVClient\MyKTVClientDAL\obj\Debug\MyKTVClientDAL.csprojResolveAssemblyReference.cache
+E:\KTV\MyKTVClient\MyKTVClientDAL\obj\Debug\MyKTVClient.DAL.dll
+E:\KTV\MyKTVClient\MyKTVClientDAL\obj\Debug\MyKTVClient.DAL.pdb
