@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="typeArray">
+        <item>经典老歌</item>
+        <item>热门流行</item>
+        <item>军旅之歌</item>
+        <item>影视金曲</item>
+        <item>儿童歌谣</item>
+        <item>游戏动漫</item>
+        <item>全部类型</item>
+    </string-array>
+    
+    <string-array name="countArray">
+        <item>一个字</item>
+        <item>两个字</item>
+        <item>三个字</item>
+        <item>四个字</item>
+        <item>五个字</item>
+        <item>六个字</item>
+        <item>七个字</item>
+        <item>八个字</item>
+        <item>九个字及以上</item>
+    </string-array>
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background" >
+
+    <LinearLayout 
+        android:id="@+id/linSingerHander"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+        
+        <EditText
+        android:id="@+id/etSearchText"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_weight="1"
+        android:textColor="#EEE"
+        android:ems="5" >
+
+        <requestFocus />
+    	</EditText>
+        
+        <Button
+        android:id="@+id/btnSearch"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:onClick="Search"
+        android:background="@drawable/search" />
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:id="@+id/linSingerHander"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+
+        <TextView
+            android:id="@+id/tvF"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:text="@string/songName"
+        	android:textSize="15sp"
+        	android:textColor="#EEE"
+        	android:layout_weight="0.75" />
+
+        <TextView
+            android:id="@+id/tvS"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:text="@string/singerName"
+        	android:textSize="15sp"
+        	android:textColor="#EEE"
+        	android:layout_weight="1.25" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lvSongList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.85" >
+
+    </ListView>
+
+    <include
+        android:id="@+id/incTools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/activity_tools" />
+
+</LinearLayout>

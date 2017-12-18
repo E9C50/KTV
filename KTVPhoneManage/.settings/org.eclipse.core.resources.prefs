@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/cn/ktv/ktvphone/scanner/AmbientLightManager.java=UTF-8
+encoding//src/cn/ktv/ktvphone/scanner/BeepManager.java=UTF-8
+encoding//src/cn/ktv/ktvphone/scanner/CaptureActivity.java=UTF-8
+encoding//src/cn/ktv/ktvphone/scanner/camera/AutoFocusManager.java=UTF-8
+encoding//src/cn/ktv/ktvphone/scanner/camera/CameraConfigurationManager.java=UTF-8
+encoding//src/cn/ktv/ktvphone/scanner/camera/PreviewCallback.java=UTF-8
+encoding//src/cn/ktv/ktvphone/scanner/view/ViewfinderView.java=UTF-8

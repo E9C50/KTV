@@ -1,0 +1,76 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.ktv.ktvphone"
+    android:versionCode="1"
+    android:versionName="1.0" android:installLocation="auto">
+
+    <uses-permission android:name="android.permission.CAMERA" >
+    </uses-permission>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" >
+    </uses-permission>
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity 
+            android:name="cn.ktv.ktvphone.activity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="cn.ktv.ktvphone.scanner.CaptureActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+        </activity>
+        <activity 
+            android:label="@string/addsong_singer"
+            android:name="cn.ktv.ktvphone.activity.SingerListActivity">
+            
+        </activity>
+        <activity 
+            android:label="@string/addsong_singer"
+            android:name="cn.ktv.ktvphone.activity.SingerSongListActivity">
+            
+        </activity>
+        <activity 
+            android:label="@string/addsong_spell"
+            android:name="cn.ktv.ktvphone.activity.SpellSongListActivity">
+            
+        </activity>
+        <activity 
+            android:label="@string/toplist"
+            android:name="cn.ktv.ktvphone.activity.TopListActivity">
+            
+        </activity>
+         <activity 
+            android:label="@string/typelist"
+            android:name="cn.ktv.ktvphone.activity.TypeListActivity">
+            
+        </activity>
+        <activity 
+            android:label="@string/countlist"
+            android:name="cn.ktv.ktvphone.activity.CountListActivity">
+            
+        </activity>
+    </application>
+
+</manifest>

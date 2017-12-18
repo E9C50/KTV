@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">KTV手机助手</string>
+    <string name="scan_failed">抱歉，您扫描的二维码不正确，请联系服务员</string>
+    <string name="bottom_hint">建议与镜头保持10CM距离，尽量避免逆光和阴影</string>
+    <string name="top_hint">将条形码或二维码置于取景框内系统会自动扫描</string>
+    <string name="cinema_Allow">无法获取相机权限，请授权！</string>
+    <string name="addsong_singer">歌手点歌</string>
+    <string name="addsong_spell">歌名点歌</string>
+    <string name="pause">暂停</string>
+    <string name="play">播放</string>
+    <string name="connectioned">连接成功</string>
+    <string name="unconnection">未连接到包厢系统，请连接WIFI后扫描包厢上的二维码！</string>
+    <string name="cutsong">切歌</string>
+    <string name="singer">原唱</string>
+    <string name="nosinger">伴唱</string>
+    <string name="server">服务</string>
+    <string name="requestServer">服务已发送成功！</string>
+    <string name="lastSong">重唱</string>
+    <string name="singerName">歌手姓名</string>
+    <string name="singerType">歌手类型</string>
+    <string name="songName">歌曲名称</string>
+    <string name="songType">歌曲类型</string>
+    <string name="load_failed">加载失败，请刷新</string>
+    <string name="toplist">金曲排行</string>
+    <string name="typelist">类型点歌</string>
+    <string name="countlist">字数点歌</string>
+    <string name="disconnection">您已断开连接，请重新扫描二维码</string>
+    
+    
+
+</resources>
