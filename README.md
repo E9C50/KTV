@@ -21,3 +21,13 @@
 #### 项目截图
 
 - 项目截图可见doc文件夹下用户使用说明书。
+
+#### 个人联系方式：
+
+QQ： 2250795018
+
+Wechat：  FX3A87
+
+Email： jaosnfu516@outlook.com
+
+Profile：www.jasonfx.com
