@@ -1,5 +1,7 @@
 # KTV
 
+[![Star History Chart](https://api.star-history.com/svg?repos=E9C50/KTV&type=Date)](https://www.star-history.com/#E9C50/KTV&Date)
+
 #### 项目介绍
 
 - KTV系统，C#前后台，Android客户端。播放器使用迅雷开源APlayer播放引擎。
@@ -11,7 +13,7 @@
 
 - Aplayer：迅雷开源播放引擎，运行项目前导入此插件。
 - DB：数据库，使用sqlserver 2008
-- KTVPhoneManage：手机操控管理端
+- KTVPhoneManage：安卓操控端
 - MyKTVClient：前台娱乐端
 - MyKTVServer：后台管理端
 
@@ -34,8 +36,4 @@
 
 #### 个人联系方式：
 
-QQ： 2250795018
-
-Wechat：  FX3A87
-
-Email： jaosnfu516@outlook.com
+Email：jasonfu516@outlook.com
